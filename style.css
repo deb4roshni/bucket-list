@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #fffef2;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 32px 22px;
+}
+
+header h1 {
+  font-size: 36px;
+  color: #654321;
+  margin-bottom: 8px;
+}
+
+header p {
+  margin-bottom: 16px;
+  color: #6b4c29;
+}
+
+header img {
+  max-width: 300px;
+  width: 90%;
+  border-radius: 20px;
+}
+
+.bucket-list {
+  padding: 42px 22px;
+  max-width: 700px;
+  margin: 17px;
+}
+
+.bucket-list li {
+  padding: 14px 22px;
+  margin: 14px 0;
+  background: #ffecc7;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+} 
